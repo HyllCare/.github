@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-**This repository contains the code for the HyllCare project.** 
+**These repositories contains the code for the HyllCare project.**
+
+- `hyllcare3` - The main Flutter project for the HyllCare project. The project is written to be cross-platform, and is
+  currently available on iOS. The project is written in Dart.
+- `hyllcare3-admin` - The admin backend for the HyllCare3 project. It is a Python project.
+
 
 <!--
 
